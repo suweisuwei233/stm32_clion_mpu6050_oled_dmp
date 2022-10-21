@@ -1,0 +1,5 @@
+"F:\application_about_code\Clion\CLion 2020.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\STM32_Project\stm32f103c8t6\13_demo_OLED_FLOAT
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/STM32_Project/stm32f103c8t6/13_demo_OLED_FLOAT/cmake-build-debug
